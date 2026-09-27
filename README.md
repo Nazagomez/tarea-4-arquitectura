@@ -8,9 +8,7 @@ Sitio Nuxt que declara el dataset *Top 50 Spotify Songs - 2019* de Kaggle como u
 
 ## URL de Netlify
 
-Publique el repositorio en Netlify (el archivo `netlify.toml` ya define `npm run generate` y `.output/public`). Después de publicar, deje aquí la URL asignada:
-
-_Pendiente de publicar — importe este proyecto en Netlify o arrastre la carpeta `.output/public`._
+https://tarea-4-arquitectura.netlify.app/
 
 ## Requisitos cubiertos
 
@@ -33,7 +31,7 @@ El sitio queda en `http://localhost:3000`.
 ## Publicación en Netlify
 
 1. Suba el proyecto a GitHub **sin** `node_modules`.
-2. En Netlify use *Import from Git*, comando `npm run generate` y directorio `.output/public` (equivalente a `dist` en Nuxt 4).
+2. En Netlify use *Import from Git*, comando `npm run generate` y directorio `.output/public`.
 3. Use Node 22. El archivo `netlify.toml` ya trae esa configuración.
 
 ## Fuente de datos
